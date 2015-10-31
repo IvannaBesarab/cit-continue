@@ -11,3 +11,6 @@ Installation
   * `alembic upgrade head`
   * `python init_db.py`
   * Give superuser rights to cituser in psql: `ALTER USER cituser WITH SUPERUSER;`
+
+# cit-continue
+
